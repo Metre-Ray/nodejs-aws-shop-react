@@ -1,3 +1,7 @@
+# Task 2
+
+Cloudfront link: https://dgkj3xdx7e5mz.cloudfront.net/
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
